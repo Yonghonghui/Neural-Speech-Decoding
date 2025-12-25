@@ -54,7 +54,7 @@ Neural-Speech-Decoding/
 
 Due to storage limits, the dataset and pre-trained models are hosted externally on Google Drive.
 
-[📥 **Download Dataset & Models Here**](https://drive.google.com/drive/folders/1Mz2gnPPV4v_yGcjm270fL_z5Qvf36y8g?usp=drive_link)
+[📥 **Download Dataset & Models Here**](https://drive.google.com/drive/folders/1QUhap4d-6aJLZPaJmYvh7jHOnLH1z7Wb?usp=sharing)
 
 ### Setup Instructions
 
