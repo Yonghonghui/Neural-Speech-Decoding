@@ -1,0 +1,26 @@
+# 忽略模型权重文件 (太大)
+*.pkl
+*.pth
+*.pt
+
+# 忽略压缩包
+*.tar.gz
+*.zip
+
+# 忽略虚拟环境 (不应该上传)
+.venv/
+venv/
+ENV/
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略 IDE 配置文件
+.vscode/
+.idea/
+
+# 将 *.mat 和 数据文件夹 追加到忽略列表
+echo "*.mat" >> .gitignore
+echo "competitionData/" >> .gitignore*.mat
+competitionData/
