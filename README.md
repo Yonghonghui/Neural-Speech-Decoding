@@ -50,6 +50,18 @@ Neural-Speech-Decoding/
 └── README.md
 
 ```
+## 💾 Dataset and Pre-trained Models
+
+Due to storage limits, the dataset and pre-trained models are hosted externally on Google Drive.
+
+[📥 **Download Dataset & Models Here**](https://drive.google.com/drive/folders/1Mz2gnPPV4v_yGcjm270fL_z5Qvf36y8g?usp=drive_link)
+
+### Setup Instructions
+
+1.  Download the contents from the link above.
+2.  **Unzip and Place Files**:
+    * Place the `competitionData` folder **inside** the `neural_seq_decoder` directory.
+    * Place the `ptDecoder_ctc.pkl` file **inside** the `neural_seq_decoder` directory.
 
 ## 🚀 Getting Started
 
